@@ -1,1 +1,2 @@
-print("i will be 100 years in 2080")
+name = input("What is your name: ")
+print(name + " will be 100 years old in the year 2080")
